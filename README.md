@@ -9,7 +9,7 @@ The HR Manager wants to better understand how they are doing, and I was asked to
 In order to better display the dataset, I created an Entity Relationship Diagram with 'datamodelr' package in `R`, merged *100,000+* data from *10+* tables, analyzed the data, and then generated the R-markdown report as well as the `Tableau` Dashboard for better interpretation and presentation.
 
 ## Data Analysis
-* [Data](data/'Adventure Works Data Definitions.xlsx')
+* [Data](data/Adventure Works Data Definitions.xlsx)
 
 ## Reports
 
